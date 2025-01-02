@@ -1,16 +1,15 @@
 <!-- banner image starts here  -->
-<img src="./images/banner.png" width="100%">
+<img src="./images/banner.svg" width="100%">
 <!-- banner image ends here  -->
 
-<h1> 👋 Hello, I'm Anisul Islam </h1>
+<h1> 👋 Hello, I'm Rasel Ahmed </h1>
 
-A full time content creator on & web developer  
-🏠 &nbsp; Living: Tampere, Finland
+Web Developer  
+🏠 &nbsp; Living: Jeddah, KSA
 
 <!-- Contact me section starts here  -->
 
 [<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website]
-[<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
 [<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
 [<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
 <br />
@@ -23,7 +22,12 @@ A full time content creator on & web developer
 ### 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
-I am a passionate computer science teacher. I have been teaching programming languages, web development, and computer science-related subjects to millions of Bangla-speaking students worldwide through my YouTube channel for the last eight years. I had the opportunity to teach thousands of Bachelors's and Higher secondary students at different institutions in Bangladesh. After completing my master's in Software, Web and Cloud in August 2021, I am improving my web development skills. Every day I want to learn something new and share my knowledge with my students and others.
+Hi there! 👋 I'm Rasel Ahmed, a passionate software developer with a deep interest in building impactful and scalable applications. I love working with modern web technologies and continually strive to improve my skills through hands-on projects. My journey in development has led me to explore a variety of technologies, from front-end frameworks like React and Vue.js to back-end systems using Node.js, Python, and databases.
+
+I believe in writing clean, efficient code and using best practices to deliver solutions that not only solve problems but also provide great user experiences. When I'm not coding, you’ll find me exploring new technologies, contributing to open-source projects, or learning about the latest trends in the tech world.
+
+Feel free to check out my repositories, where I share personal projects, tutorials, and experiments. I’m always open to collaborating on exciting projects and learning from others.
+
 </p>
 
 <br />
@@ -31,7 +35,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 <!-- web related skills section starts here  -->
 
-### 👨🏽‍💻 &nbsp; My Skills & Videos:
+### 👨🏽‍💻 &nbsp; My Skills:
 
 #### Key Skills & Videos on Web development:
 
