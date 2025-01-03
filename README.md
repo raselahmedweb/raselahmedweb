@@ -203,11 +203,11 @@ All rights reserved by Anisul Islam @2021
 
 <!-- Links section starts here -->
 
-[website]: http://www.studywithanis.com/
-[youtube]: https://www.youtube.com/c/anisulislamrubel
-[facebook]: https://www.facebook.com/studywithanis/
-[linkedin]: https://www.linkedin.com/in/anisul2020/
-[github]: https://github.com/anisul-Islam
+[website]: http://www.raseldev.com/
+[youtube]: https://www.youtube.com/
+[facebook]: https://www.facebook.com/raselahmedweb/
+[linkedin]: https://www.linkedin.com/in/raselahmedweb/
+[github]: https://github.com/raselahmedweb
 
 <!-- web related playlists starts here  -->
 [fullstackplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3p06YY1fyReA2UK8mh_zsiY
