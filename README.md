@@ -22,7 +22,7 @@ Web Developer
 ### 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
-Hi there! 👋 I'm Rasel Ahmed, a passionate software developer with a deep interest in building impactful and scalable applications. I love working with modern web technologies and continually strive to improve my skills through hands-on projects. My journey in development has led me to explore a variety of technologies, from front-end frameworks like React and Vue.js to back-end systems using Node.js, Python, and databases.
+Hi there! 👋 I'm Rasel Ahmed, a passionate software developer with a deep interest in building impactful and scalable applications. I love working with modern web technologies and continually strive to improve my skills through hands-on projects. My journey in development has led me to explore from front-end frameworks like React to back-end systems using Node.js, and databases.
 
 I believe in writing clean, efficient code and using best practices to deliver solutions that not only solve problems but also provide great user experiences. When I'm not coding, you’ll find me exploring new technologies, contributing to open-source projects, or learning about the latest trends in the tech world.
 
@@ -59,7 +59,6 @@ Feel free to check out my repositories, where I share personal projects, tutoria
 <!-- Links section starts here -->
 
 [website]: http://www.raseldev.com/
-[youtube]: https://www.youtube.com/
 [facebook]: https://www.facebook.com/raselahmedweb/
 [linkedin]: https://www.linkedin.com/in/raselahmedweb/
 [github]: https://github.com/raselahmedweb
