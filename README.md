@@ -37,7 +37,7 @@ Feel free to check out my repositories, where I share personal projects, tutoria
 
 ### 👨🏽‍💻 &nbsp; My Skills:
 
-#### Key Skills & Videos on Web development:
+#### Key Skills:
 
 [<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />]
 [<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />]
@@ -61,17 +61,3 @@ Feel free to check out my repositories, where I share personal projects, tutoria
 [facebook]: https://www.facebook.com/raselahmedweb/
 [linkedin]: https://www.linkedin.com/in/raselahmedweb/
 [github]: https://github.com/raselahmedweb
-
-[fullstackplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3p06YY1fyReA2UK8mh_zsiY
-[htmlplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oHBr5dsumGwjUxByN5Lnw3
-[cssplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO
-[bootstrapplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oC_wmWEZa2xWxJauIRQ9kG
-[javascriptplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3qzryglMjcyEktz4q7ySunX
-[jsonplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3rWYYIcCykektDcb_1IPDz4
-[sassplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3qOvGYtFb3Z7KVMLrijYdqO
-[jqueryplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3pSJG9Hwjnykd0hLGEsW4DB
-[reactplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3rGtitufynBKMy5gAFpa1y8
-[nodeandexpressplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3r6ZGeyFnSv_YDxVON2P85m
-[mongodbplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3r6ZGeyFnSv_YDxVON2P85m
-[mysqlplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3qLcx9DvVDWmNJ7riPvxzCD
-[githubplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3r6ZGeyFnSv_YDxVON2P85m
