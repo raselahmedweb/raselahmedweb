@@ -1,63 +1,66 @@
-<!-- banner image starts here  
-<img src="./images/banner.svg" width="100%">
-banner image ends here  -->
+# 👨‍💻 rasel@terminal:~$
 
-<h1> 👋 Hello, I'm Rasel Ahmed </h1>
+> Full Stack Software Developer  
+> Building scalable systems, clean interfaces, and future-ready solutions
 
-Software Developer  
-🏠 &nbsp; Living: Jeddah, KSA
+---
 
-<!-- Contact me section starts here  -->
+## $ whoami
 
-[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website]
-[<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
-[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
-<br />
-<br />
+Full Stack Software Developer with hands-on experience across web, backend, cloud, and cross-platform development.  
+Focused on writing clean, maintainable code and building real-world products that scale.
 
-<!-- Contact me section ends here  -->
+---
 
-<!-- about-me section starts here  -->
+## $ skills --list
 
-### 👨‍🏫 &nbsp; About Me
+### Programming & Frameworks
+- TypeScript
+- JavaScript (ES6+)
+- Node.js
+- Express.js
+- React
+- React Native
+- Next.js
+- Python
+- Django
+- C#
+- .NET
 
-<p align="justify">
-Hi there! 👋 I'm Rasel Ahmed, a passionate software developer with a deep interest in building impactful and scalable applications. I love working with modern web technologies and continually strive to improve my skills through hands-on projects. My journey in development has led me to explore from front-end frameworks like React to back-end systems using Node.js, and databases.
+### Databases
+- PostgreSQL
+- MySQL
+- MongoDB
 
-I believe in writing clean, efficient code and using best practices to deliver solutions that not only solve problems but also provide great user experiences. When I'm not coding, you’ll find me exploring new technologies, contributing to open-source projects, or learning about the latest trends in the tech world.
+### DevOps & Cloud
+- AWS
+- Docker
 
-Feel free to check out my repositories, where I share personal projects, tutorials, and experiments. I’m always open to collaborating on exciting projects and learning from others.
+---
 
-</p>
+## $ current_focus
 
-<br />
-<!-- about-me section ends here  -->
+- Scalable full-stack applications  
+- API-driven architectures  
+- Cross-platform mobile development  
+- Performance, security, and clean architecture  
 
-<!-- web related skills section starts here  -->
+---
 
-### 👨🏽‍💻 &nbsp; My Skills:
+## $ contact --info
 
-#### Key Skills:
+🌐 Website   : https://rasell.online  
+📞 Phone     : +966 572 746 302  
+📧 Email     : itrasel75@gmail.com  
 
-[<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />]
-[<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />]
-[<img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="./images/js.svg" />]
-[<img align="left" alt="json" title="json playlist" width="45" hspace="5" src="./images/json.svg" />]
-[<img align="left" alt="sass" title="sass playlist" width="45" hspace="5" src="./images/sass.svg" />]
-[<img align="left" alt="jquery" title="jquery playlist" width="45" hspace="5" src="./images/jquery.svg" />]
-[<img align="left" alt="react" title="react playlist" width="45" hspace="5" src="./images/react.svg" />]
-[<img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.svg" />]
-[<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.svg" />]
-[<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />]
-[<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />]
+---
 
-<br />
-<br />
-<br />
+## $ availability
 
-<!-- Links section starts here -->
+Open to:
+- Full-time roles
+- Remote opportunities
+- Freelance & contract work
+- Startup & product-focused teams
 
-[website]: http://www.rasell.online/
-[facebook]: https://www.facebook.com/raselahmedweb/
-[linkedin]: https://www.linkedin.com/in/raselahmedweb/
-[github]: https://github.com/raselahmedweb
+---
